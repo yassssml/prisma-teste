@@ -1,7 +1,7 @@
 
 import express from "express";
 import dotenv from "dotenv";
-import bruxoRoutes from './src/routes/bruxoRoute.js';
+import bruxoRoutes from './src/routes/bruxoRoutes.js';
 
 
 const app = express();
